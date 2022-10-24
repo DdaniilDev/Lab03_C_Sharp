@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D2F9FCB4-655B-4B5F-9BFE-01D8260BF6E2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab03/Currency.cs">
+    <Files>
+      <File FileName="lab03/Currency.cs" Line="36" Column="47" />
+      <File FileName="lab03/Program.cs" Line="9" Column="41" />
+      <File FileName="lab03/Car.cs" Line="1" Column="1" />
+      <File FileName="lab03/Vector.cs" Line="69" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab03" expanded="True">
+            <Node name="lab03" expanded="True">
+              <Node name="Currency.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
